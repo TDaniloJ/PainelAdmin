@@ -1,2 +1,2 @@
-# adminhub
-Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+# Painel Admin
+Este site é o resultado da divisão do Figma em um site responsivo usando HTML, CSS e JavaScript
